@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+#login-new{
+	margin:0px auto;
+	background:url(../images/back-group.png) no-repeat;
+	width:338px;
+	height:232px;
+	font-size:12px;
+	overflow:hidden;
+	}
+
+#login-new #login-new-input #reset-input{
+	background-image:url(../images/reset-login.gif);
+	height:25px;
+	width:96px;
+	border:none;
+	cursor:pointer;
+	float:right;
+	margin-right:160px;
+	margin-top:2px;} 	
+#login-new #login-new-main {
+    padding-left: 60px;
+    padding-top: 70px;
+}
+#login-new-main #login-new-email label{
+	padding-right:16px;
+}	
+#login-new-main #login-new-pass{
+	padding-top:10px;}
+#login-new-main #login-new-pass label{
+	padding-right:19px;
+	}		
+#login-new-main .login-new-input {
+    border: 1px solid #717171;
+    height: 23px;
+    width: 140px;
+}
+#login-new-main #login-new-input{
+	padding-top:25px;}
+#login-new-main #login-new-input #submit-input{
+	margin-left:77px;
+}	
+#login-new-main #login-new-remember{
+	padding-left:90px;
+	padding-top:5px;
+}
+#login-new-main #login-new-forgot-remembe{
+	padding-top:5px;
+
+}
+
+#login-new-main #login-new-type-login{
+	padding-left:90px;
+	padding-top:5px;
+	}
+#login-new-type-login a{
+	color:#FFFFFF;
+	text-decoration:underline;
+		
+	}
+#login-new-type-login a:hover {
+color:#09F;	
+}
+#login-new-main #login-new-security{
+	padding-top:10px;}
+#login-new-main #login-new-security label{
+	padding-right:77px;
+	
+}
+#login-new-main #login-new-email-forgot label{
+	padding-right:99px;
+}
+#login-new-input-forgot{
+	padding-left:131px;
+	padding-top:30px;	
+}	

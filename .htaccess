@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
+</IfModule>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.phongtamhoanggia.vn [NC]
+RewriteRule ^(.*)$ http://phongtamhoanggia.vn/$1 [L,R=301]

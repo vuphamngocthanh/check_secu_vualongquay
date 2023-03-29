@@ -1,0 +1,2711 @@
+    <!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
+    <!-- Favicon --> 
+	<link rel="shortcut icon" href="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/logo/1417572140_favicon.ico">
+
+    <!-- this styles only adds some repairs on idevices  -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <title>Web điện máy, web4steps 3.0, kho giao diện thiết kế web</title>
+	<meta name="description" content="Dịch vụ thiết kế web trọn gói web4steps trực thuộc công ty phần mềm Nhân Hòa">
+	<meta name="keywords" content="Web điện máy, web4steps 3.0, kho giao diện, thiết kế web, web trọn gói, web giá rẻ, web nhân hòa">
+    <!--Facebook-->
+	<link rel="image_src" href="" / >   
+	<meta property="og:title" content=""/>
+	<meta property="og:description" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:type" content="site"/>
+	<meta property="og:site_name" content=""/>    
+    <!--end facebook-->
+    <!-- Bootstrap -->
+    <link href="http://demot123.web4s.vn/templates/t1-23/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="http://demot123.web4s.vn/templates/t1-23/css/font-awesome.min.css" rel="stylesheet">
+	<!-- Style -->
+    <link href="http://demot123.web4s.vn/templates/t1-23/css/reset.css" rel="stylesheet">
+	<link href="http://demot123.web4s.vn/templates/t1-23/css/style.css" rel="stylesheet">
+    <!-- Style Responsive -->
+   	<link href="http://demot123.web4s.vn/templates/t1-23/css/style-responsive.css" rel="stylesheet">
+    <!-- owl Slider -->
+    <link href="http://demot123.web4s.vn/templates/t1-23/css/slider.css" rel="stylesheet">
+    <!-- SLIDER REVOLUTION Main Slider -->
+    <link href="http://demot123.web4s.vn/templates/t1-23/css/captions.css" rel="stylesheet">
+    <link href="http://demot123.web4s.vn/templates/t1-23/css/settings.css" rel="stylesheet">
+    <link href="http://demot123.web4s.vn/profiles/demot123web4svn/cache/custom.css" rel="stylesheet">
+    <link href="http://demot123.web4s.vn/templates/t1-23/css/magnific-popup.css" rel="stylesheet">
+    <!-- Load jQuery Library -->
+    <script src="http://demot123.web4s.vn/templates/t1-23/js/jquery-1.11.min.js"></script>
+    
+    <script src="http://demot123.web4s.vn/templates/t1-23/js/owl.carousel.js"></script>
+    
+    
+    <script src="http://demot123.web4s.vn/templates/t1-23/js/jquery.validate.js"></script>
+    <script src="http://demot123.web4s.vn/templates/t1-23/js/bootstrap.min.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script>
+	  window.fbAsyncInit = function() {
+		FB.init({
+		  appId      : '492554737484975',
+		  xfbml      : true,
+		  version    : 'v2.1'
+		});
+	  };
+	
+	  (function(d, s, id){
+		 var js, fjs = d.getElementsByTagName(s)[0];
+		 if (d.getElementById(id)) {return;}
+		 js = d.createElement(s); js.id = id;
+		 js.src = "//connect.facebook.net/en_US/sdk.js";
+		 fjs.parentNode.insertBefore(js, fjs);
+	   }(document, 'script', 'facebook-jssdk'));
+	</script>
+                  
+</head>
+<body>
+    <div id="st-container" class="st-container">
+        <div class="st-pusher">
+            <nav class="st-menu st-effect-3" id="cssmenu-st">
+	<form class="search"  action="http://demot123.web4s.vn/tim-kiem.html" method="post">
+        <input type="text" name="key" placeholder="Từ khóa tìm kiếm..." class="search_query">
+        <span><i class="fa fa-search fa-lg"></i></span>
+    </form>
+    <div class="list-group panel"> 
+          
+                
+                <a href="http://demot123.web4s.vn/" target="_self" class="list-group-item-stmenu">
+                Trang chủ                </a> 
+                
+                <!--nếu có sub-->
+								<!--end nếu có sub-->
+                       
+                
+                <a href="http://demot123.web4s.vn#" target="_self" class="list-group-item-stmenu">
+                Tuyển dụng                </a> 
+                
+                <!--nếu có sub-->
+								<!--end nếu có sub-->
+                       
+                
+                <a href="http://demot123.web4s.vn/gioi-thieu" target="_self" class="list-group-item-stmenu">
+                Giới thiệu                </a> 
+                
+                <!--nếu có sub-->
+								<!--end nếu có sub-->
+                       
+                
+                <a href="#" target="_self" class="list-group-item-stmenu">
+                Hệ thống chi nhánh                </a> 
+                
+                <!--nếu có sub-->
+								<!--end nếu có sub-->
+                       
+                
+                <a href="#" target="_self" class="list-group-item-stmenu">
+                Quyền lợi thành viên                </a> 
+                
+                <!--nếu có sub-->
+								<!--end nếu có sub-->
+                       
+                
+                <a href="http://demot123.web4s.vn/khuyen-mai" target="_self" class="list-group-item-stmenu">
+                Khuyến mãi                </a> 
+                
+                <!--nếu có sub-->
+								<!--end nếu có sub-->
+                       
+                
+                <a href="http://demot123.web4s.vn/lien-he.html" target="_self" class="list-group-item-stmenu">
+                Liên hệ                </a> 
+                
+                <!--nếu có sub-->
+								<!--end nếu có sub-->
+                       
+             </div>
+</nav><!-------Menu reponsive--->
+
+
+
+
+	
+            <div class="st-content"><!-- this is the wrapper for the content -->
+                <div class="st-content-inner">
+                    <div class="main clearfix">
+                    	<!--begin top-->
+                    	  
+                    	<!--icon menu su dụng trong giao diện mobile-->
+<div id="st-trigger-effects" class="column hidden-lg hidden-md">
+	<button data-effect="st-effect-3">
+	    <i class="fa fa-bars fa-lg"></i>
+	</button>
+</div>
+<!--icon menu su dụng trong giao diện mobile-->
+<section id="topheader">
+    <section id="topbar">
+		<div class="container">
+			<div class="row">
+				<!-- start col -->
+				<div class="col-lg-3 col-md-3 hidden-sm hidden-xs">
+                    					<div class="currency pull-left">
+						<form>
+                            <div class="btn-group"> 
+                                <span class="btn dropdown-toggle" data-toggle="dropdown"> 
+                                    <a href="#"> 
+                                        <span>đ</span> 
+                                        <span>Tiền tệ</span> 
+                                        <i class="fa fa-angle-down"></i>
+                                    </a>
+                                </span>
+                                
+                                <!-- Show Dropdown Menu -->
+                                <ul class="dropdown-menu">
+                                                                        <li>
+                                        <a href="http://demot123.web4s.vn/?site=global&currency=1">
+                                            <span>đ Đồng</span>
+                                        </a>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://demot123.web4s.vn/?site=global&currency=2">
+                                            <span>&#036; US Dollar</span>
+                                        </a>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://demot123.web4s.vn/?site=global&currency=3">
+                                            <span>€ Euro</span>
+                                        </a>
+                                    </li>
+                                                                        <li>
+                                        <a href="http://demot123.web4s.vn/?site=global&currency=4">
+                                            <span>£ Pound Sterling</span>
+                                        </a>
+                                    </li>
+                                                                    </ul>
+                            </div>
+                        </form>
+					</div>
+				</div>
+                                 
+                                
+                                
+             <!--start popup login modal fade -->
+                                
+                                <div class="zoom-anim-dialog mfp-hide" id="login">
+                                 
+                                        <div class="popup-header">
+                                          
+                                          <h4 class="modal-title" id="myModalLabel">Đăng nhập</h4>
+                                        </div>
+                                      
+                                         
+                                            <div class="popup-body">
+                                            <div class="noti-error login_notify" style="display:none"></div>
+                                            
+                                            <form action="#" method="post">
+                                                <div class="reg_form_desc">
+                                                    Quý khách vui lòng đăng nhập hoặc tạo tài khoản mới để tiếp tục đặt hàng!                                                </div>
+                                                <input type="text" placeholder="Tài khoản" class="login" name="user_name" id="login_user_name">
+                                                <input type="password" placeholder="Mật khẩu" class="login" name="user_pass" id="login_user_pass">
+                                            <div class="block">
+                                                <input type="button" class="submit_login" value="Đăng nhập" onClick="customer_login('http://demot123.web4s.vn/?site=login&view=check_login');">
+                                                 <a class='regislink' href="http://demot123.web4s.vn/quen-mat-khau.html" class="lostpass">Quên mật khẩu ?</a> 
+                                                <a class='regislink' href="http://demot123.web4s.vn/dang-ky-thanh-vien.html" class="lostpass">Tạo tài khoản</a>
+                                                <a class="regislink shipping_register"  href="#news_pop_create_new_customer" id="new_customer_common"  style="display:none" id="shipping_register"></a><!--use for paging shipping method-->
+
+
+
+                                                <!--a href="#" class="lostpass">Quên mật khẩu ?</a-->
+                                            </div>
+                                            </form>
+											<Script language="javascript">
+                                            function customer_login(url)
+                                            {
+                                                var login_user_name=jQuery('#login_user_name').val();
+                                                var login_user_pass=jQuery('#login_user_pass').val();
+                                                jQuery(".login_notify").show();
+                                                if(login_user_name.length=="" || login_user_pass.length==""){
+                                                        jQuery(".login_notify").html('Tài khoản và mật khẩu không được bỏ trống');
+                                                }else{												
+                                                        jQuery(".login_notify").html('Loading..');               
+
+                                                        jQuery.post(url, {user_name:login_user_name, user_pass: login_user_pass}).done(function( data ) {
+															
+                                                        if(data==1)
+                                                        {
+                                                        jQuery(".login_notify").html('Không tìm thấy tên đăng nhập trong hệ thống');
+                                                        }
+                                                        else if(data==2)
+                                                        {
+                                                        jQuery(".login_notify").html('Mật khẩu không đúng');             
+                                                        }
+                                                        else if(data==3)
+                                                        {
+                                                        jQuery(".login_notify").html('Tài khoản của bạn đã bị khóa');        
+                                                        }
+                                                        else{
+                                                        //login success
+                                                        jQuery(".login_notify").html('Đăng nhập thành công');
+														
+                                                        window.setTimeout('location.reload()', 1000);
+                                                        }
+                                                })
+                                                }
+                                            }
+                                            </script>
+                                                                                        
+                                        </div>
+                                      
+                                  </div>
+                                  
+                                  
+                                
+                              
+                                <script src="http://demot123.web4s.vn/templates/t1-23/js/jquery.magnific-popup.min.js"></script>
+                                <!--Don't move the js file above-->
+								<script>
+                                $(document).ready(function() {
+                                    $('.popup-with-zoom-anim').magnificPopup({
+                                        type: 'inline',
+                                
+                                        fixedContentPos: false,
+                                        fixedBgPos: true,
+                                
+                                        overflowY: 'auto',
+                                
+                                        closeBtnInside: true,
+                                        preloader: false,
+                                        
+                                        midClick: true,
+                                        removalDelay: 300,
+                                        mainClass: 'my-mfp-zoom-in'
+                                    });
+                                });
+                                </script>
+  
+                                  
+                                <!--end popup login--> 
+				<!-- end col -->
+				<!-- start col -->
+				<div class="col-lg-9 col-md-9 col-sm-6 col-xs-12 hidden-xs hidden-sm header-right">
+					<div class="welcome pull-right">
+						<ul class="links pull-right">
+                                                <li>
+                            <a href="#login" class="btn btn-primary btn-lg popup-with-zoom-anim">
+                            <i class="fa fa-user"></i>&nbsp;Đăng nhập                            </a>
+                        </li> 
+                                                
+                        
+                                                <li>                        
+                            <a href="http://demot123.web4s.vn/dang-ky-thanh-vien.html">
+                            <i class="fa fa-user"></i>&nbsp;Tạo tài khoản                            </a>
+                        </li> 
+                                                                    
+                  			
+                		</ul>
+					</div>
+                    <ul class="hidden-sm hidden-xs links pull-right">
+                        <li>
+                            <a href="http://demot123.web4s.vn/yeu-thich.html">
+                                <i class="fa fa-heart"></i>&nbsp;Yêu thích(0)
+                            </a>
+                        </li>                         
+                                
+                       
+                        <li>
+                            <a href="http://demot123.web4s.vn/gio-hang-cua-toi.html">
+                                <i class="fa fa-shopping-cart"></i>&nbsp;Giỏ hàng(0)
+                            </a>
+                        </li>
+                        
+                    </ul>
+				</div>
+				<!-- end col -->
+				<!-- start col -->
+				<div class="show-mobile hidden-lg hidden-md pull-right">
+					<!-- start quick-user -->
+					<div class="quick-user pull-left">
+                		<div class="quickaccess-toggle"> 
+                			<i class="fa fa-user"></i>
+                		</div>
+                		<div class="inner-toggle">
+                  			<div>
+                    			<ul class="links pull-right">
+                      				                                             <li>
+                                             <a href="#login" class="popup-with-zoom-anim">
+                                            <i class="fa fa-user"></i>&nbsp;Đăng nhập                                              </a>
+                                            </li> 
+                                                             			
+                                       
+                                                                                            <li>
+                                           
+                                                <a href="http://demot123.web4s.vn/dang-ky-thanh-vien.html">
+                                                        <i class="fa fa-user"></i>&nbsp;Tạo tài khoản                                                </a>
+                                                </li> 
+                                                                                          
+                                             
+                    			</ul>
+                  			</div>
+                		</div>
+              		</div>
+              		<!-- end quick-user -->
+              		<!-- start quick-access -->
+					<div class="quick-access pull-left">
+                		<div class="quickaccess-toggle"> 
+                			<i class="fa fa-navicon"></i> 
+                		</div>
+               			<div class="inner-toggle">
+	                    	<ul class="links pull-left">
+                                <li>
+                			<a href="http://demot123.web4s.vn/yeu-thich.html">
+        	            		<i class="fa fa-heart"></i>&nbsp;Yêu thích(0)
+		                    </a>
+                		</li>                         
+                                
+		                <li>
+                			<a href="http://demot123.web4s.vn/trang-thanh-vien.html">
+		                    	<i class="fa fa-user"></i>&nbsp;Quản lý tài khoản		                    </a>
+                		</li>
+                		<li>
+                			<a href="http://demot123.web4s.vn/gio-hang-cua-toi.html">
+								<i class="fa fa-shopping-cart"></i>&nbsp;Giỏ hàng		                    </a>
+                		</li>
+                		
+                  			</ul>
+                		</div>
+              		</div>
+					<!-- end quick-access -->
+              		<!-- start quick-access -->
+					<div class="quick-access pull-left">
+                                  		</div>
+					<!-- end quick-access -->
+					<!-- start quick-access -->
+					<div class="quick-access pull-left">
+                		<div class="quickaccess-toggle"> 
+                			<i class="fa fa-cny"></i> 
+                		</div>
+               			<div class="inner-toggle">
+	                    	<ul class="links pull-left">
+                                                                   <li>
+                                        <a href="http://demot123.web4s.vn/?site=global&currency=1">
+                                            <span>đ Đồng</span>
+                                        </a>
+                                    </li>
+                                                                     <li>
+                                        <a href="http://demot123.web4s.vn/?site=global&currency=2">
+                                            <span>&#036; US Dollar</span>
+                                        </a>
+                                    </li>
+                                                                     <li>
+                                        <a href="http://demot123.web4s.vn/?site=global&currency=3">
+                                            <span>€ Euro</span>
+                                        </a>
+                                    </li>
+                                                                     <li>
+                                        <a href="http://demot123.web4s.vn/?site=global&currency=4">
+                                            <span>£ Pound Sterling</span>
+                                        </a>
+                                    </li>
+                                                   			</ul>
+                		</div>
+              		</div>
+              		<!-- end quick-access -->
+				</div>
+				<!-- end col -->
+			</div>
+		</div>
+	</section>
+</section>				  
+                                     
+                        <section class="row-section top-logo top-search top-html " style='background:#ffffff !important; padding:25px 0px 5px 0px !important; '><div class="container"><div class="row"><div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><h1 class="logo">
+    <a title="" href="http://demot123.web4s.vn">
+        <img alt="" style="max-width: 100%; max-height:100%" src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423057866_logo.png"/>
+    </a>     
+</h1>
+</div><div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><div class="header-right"> 
+    <form class="search" action="http://demot123.web4s.vn/tim-kiem.html" method="post">
+        <input type="text" name="key" placeholder="Từ khóa tìm kiếm..." class="search_query">
+        <span><i class="fa fa-search fa-lg"></i></span>
+    </form>
+</div>
+
+</div><div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><div class="hotline"><img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/post/images/hotline.png" /> <span>Support 24/7</span> <span class="number">(08) 7 308 6680</span></div>
+</div></div></div></section><section class="row-section top-menu " style='  '><div class="container">		<div class="hidden-sm hidden-xs">
+      <nav id="nav">
+        <ul class="nav navbar-nav">
+                    		                	<li><a level='1' href="http://demot123.web4s.vn/" target="_self">Trang chủ</a></li>
+               	                    		                	<li><a level='1' href="http://demot123.web4s.vn#" target="_self">Tuyển dụng</a></li>
+               	                    		                	<li><a level='1' href="http://demot123.web4s.vn/gioi-thieu" target="_self">Giới thiệu</a></li>
+               	                    		                	<li><a level='1' href="#" target="_self">Hệ thống chi nhánh</a></li>
+               	                    		                	<li><a level='1' href="#" target="_self">Quyền lợi thành viên</a></li>
+               	                    		                	<li><a level='1' href="http://demot123.web4s.vn/khuyen-mai" target="_self">Khuyến mãi</a></li>
+               	                    		                	<li><a level='1' href="http://demot123.web4s.vn/lien-he.html" target="_self">Liên hệ</a></li>
+               	                    
+        </ul>
+      </nav>
+    </div>
+    
+<script>
+	$(document).ready(function(){
+		var url=document.URL;
+		$("a[href='"+url+"'][level='"+1+"']").addClass('active');
+	});	
+</script>
+
+</div></section><section class="row-section top-product_category top-slideshow " style=' padding:20px 0px 0px !important; '><div class="container"><div class="row"><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+<section class="box-category-menu">
+            	<div class="heading">
+					<span><i class="fa fa-th-list"></i>Danh mục sản phẩm</span>
+				</div>
+                <ul class="list_category ">
+                
+                                	        			            			            			
+            			<li>
+	                        <a href="http://demot123.web4s.vn/do-dung-nha-bep" title="">
+	                            <i class="fa fa-angle-right"></i> Đồ dùng nhà bếp	                        </a>	                       
+	                    </li>
+            			
+            			            			            		            			            			
+            			<li>
+	                        <a href="http://demot123.web4s.vn/me-va-be" title="">
+	                            <i class="fa fa-angle-right"></i> Mẹ và bé	                        </a>	                       
+	                    </li>
+            			
+            			            			            		            			            			
+            			<li>
+	                        <a href="http://demot123.web4s.vn/may-anh-kts" title="">
+	                            <i class="fa fa-angle-right"></i> Máy ảnh KTS	                        </a>	                       
+	                    </li>
+            			
+            			            			            		            			            			
+            			<li>
+	                        <a href="http://demot123.web4s.vn/may-in" title="">
+	                            <i class="fa fa-angle-right"></i> Máy in	                        </a>	                       
+	                    </li>
+            			
+            			            			            		            			            			
+            			<li>
+	                        <a href="http://demot123.web4s.vn/dien-lanh" title="">
+	                            <i class="fa fa-angle-right"></i> Điện lạnh	                        </a>
+	                        <div class="box_megam box_megam_5">
+	                            <div class="block_menu">
+	                                <ul class="list_mega_menu">
+	                                	                        							                                    <li>
+		                                        <a href="http://demot123.web4s.vn/tu-dong" title=""><i class="fa fa-angle-right"></i> Tủ đông</a>
+		                                    </li>
+		                                    		                                                         							                                    <li>
+		                                        <a href="http://demot123.web4s.vn/may-loc-nuoc" title=""><i class="fa fa-angle-right"></i> Máy lọc nước</a>
+		                                    </li>
+		                                    		                                                         							                                    <li>
+		                                        <a href="http://demot123.web4s.vn/may-rua-chen" title=""><i class="fa fa-angle-right"></i> Máy rửa chén</a>
+		                                    </li>
+		                                    		                                                         							                                    <li>
+		                                        <a href="http://demot123.web4s.vn/may-nuoc-nong-lanh" title=""><i class="fa fa-angle-right"></i> Máy nước nóng lạnh</a>
+		                                    </li>
+		                                    		                                 	                                </ul>
+	                            </div>
+	                            
+	                         </div>
+	                    </li>
+            			
+            			            			            		            			            			
+            			<li>
+	                        <a href="http://demot123.web4s.vn/phu-kien" title="">
+	                            <i class="fa fa-angle-right"></i> Phụ kiện	                        </a>	                       
+	                    </li>
+            			
+            			            			            		            			            			
+            			<li>
+	                        <a href="http://demot123.web4s.vn/dien-tu" title="">
+	                            <i class="fa fa-angle-right"></i> Điện tử	                        </a>
+	                        <div class="box_megam box_megam_7">
+	                            <div class="block_menu">
+	                                <ul class="list_mega_menu">
+	                                	                        							                                    <li>
+		                                        <a href="http://demot123.web4s.vn/amply-loa" title=""><i class="fa fa-angle-right"></i> Amply &amp; Loa</a>
+		                                        <div class="box_megam_level2">
+						                            <div class="box_megam_level2">
+						                                <ul class="list_mega_menu_level2">
+						                                							                                		<li>
+											                        <a href="http://demot123.web4s.vn/nghe-nhin" title="">
+											                           <i class="fa fa-angle-right"></i> Nghe nhìn											                        </a>
+											                    </li>
+						                                							                                		<li>
+											                        <a href="http://demot123.web4s.vn/tivi" title="">
+											                           <i class="fa fa-angle-right"></i> Tivi											                        </a>
+											                    </li>
+						                                							                                		<li>
+											                        <a href="http://demot123.web4s.vn/phu-kien-dien-tu" title="">
+											                           <i class="fa fa-angle-right"></i> Phụ kiện điện tử											                        </a>
+											                    </li>
+						                                							                                </ul>
+						                            </div>
+					                            </div>
+					                            					                            
+		                                    </li>    
+	                                   				                                                         							                                    <li>
+		                                        <a href="http://demot123.web4s.vn/dien-thoai" title=""><i class="fa fa-angle-right"></i> Điện thoại</a>
+		                                    </li>
+		                                    		                                 	                                </ul>
+	                            </div>
+	                            
+	                         </div>
+	                    </li>
+            			
+            			            			            		            	                
+                
+                
+                    
+        			
+   			 	</ul>
+            
+</section>
+
+
+
+
+
+
+
+
+
+</div><div class="col-lg-9 col-md-9 col-sm-12 col-xs-12"><!-----Slider------>
+				
+	   
+        <div id="myCarousel_9248221436413283" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <!--ol class="carousel-indicators">
+                                          		<li data-target="#myCarousel_9248221436413283" data-slide-to="0" class="active"></li>
+                                                           	 <li data-target="#myCarousel_9248221436413283" data-slide-to="1"></li>
+                                                           	 <li data-target="#myCarousel_9248221436413283" data-slide-to="2"></li>
+                                             </ol-->
+          <div class="carousel-inner">
+                    	            	                    <div class="item active">
+                    <a href="">	
+                      <img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423059253_untitled2.jpg" alt="">
+                    </a>
+                    </div>
+                                                        	                	<div class="item">
+                	<a href="">
+	                  <img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423108249_s1.jpg" alt="">
+	                </a>
+	                </div>	
+                                                        	                	<div class="item">
+                	<a href="">
+	                  <img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423108465_s2.jpg" alt="">
+	                </a>
+	                </div>	
+                                                        
+          </div>
+          <a class="left carousel-control" href="#myCarousel_9248221436413283" role="button" data-slide="prev">
+          	<img src="http://demot123.web4s.vn/templates/t1-23/assests/slider/left.png">          	
+          </a>
+          <a class="right carousel-control" href="#myCarousel_9248221436413283" role="button" data-slide="next">
+          	<img src="http://demot123.web4s.vn/templates/t1-23/assests/slider/right.png">
+          </a>
+        </div><!-- /.carousel -->
+	              
+	
+<script>
+	//script de chạy slide
+	$(document).ready(function() {
+	  var owl = $("#slide_9248221436413283");
+	  owl.owlCarousel({
+		  items : 4, 
+		  itemsDesktop : [1000,4], 
+		  itemsDesktopSmall : [900,3],
+		  itemsTablet: [600,2],
+		  itemsMobile : false
+	});
+	  // Custom Navigation Events
+	  $(".next_9248221436413283").click(function(){
+		owl.trigger('owl.next');
+	  })
+	  $(".prev_9248221436413283").click(function(){
+		owl.trigger('owl.prev');
+	  })		 
+	});
+	
+</script></div></div></div></section>                                  
+                               
+                    	<!--end top--> 	
+                        <div class="main-wrap">                        	
+                        	<section class="row_section" style='  '><div class="container"><div class="row"><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12"><div><!--$css_item,$box_width,$position,$num_item_row -->
+		<!-- Product silder -->
+    <Script language="javascript">
+    $(document).ready(function() {
+		var owl960061436413283 = $('#typical-products-960061436413283');
+			owl960061436413283.owlCarousel({
+				items : 1, 
+			  itemsDesktop : [1024,1], 
+			  itemsDesktopSmall : [960,3],
+			  itemsTablet: [640,2],
+			});
+			$("#next960061436413283").click(function(){
+				owl960061436413283.trigger('owl.next');
+			  })
+			  $("#prev960061436413283").click(function(){
+				
+				owl960061436413283.trigger('owl.prev');
+			  })		 
+	});	
+    
+    </script>
+    
+	
+	
+	
+	
+	
+	<!-- Product silder -->
+    <section id="typical" class="box-category">
+      <div class="heading"> 
+      	
+        	<span>Sản phẩm tiêu biểu</span>
+		            
+       </div>
+            <div class="main">                               
+        <div id="typical-products-960061436413283" class="owl-carousel typical-products"> 
+                     
+            <!-- 1 -->
+            
+            <div class="item col3">
+                <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/karaoke-arirang-ar-3600" title="KARAOKE ARIRANG AR-3600">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106631_20.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/karaoke-arirang-ar-3600" title="KARAOKE ARIRANG AR-3600" class="trans-hover">
+		                                <h3 class="trans-hover">KARAOKE ARIRANG AR-3600</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">539.865đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=121&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=121" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=121" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+            </div>
+            <!-- 2 -->
+            
+                     
+            <!-- 1 -->
+            
+            <div class="item col3">
+                <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/electrolux-etb2102pe-rvn" title="ELECTROLUX ETB2102PE-RVN">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106526_15.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/electrolux-etb2102pe-rvn" title="ELECTROLUX ETB2102PE-RVN" class="trans-hover">
+		                                <h3 class="trans-hover">ELECTROLUX ETB2102PE-RVN</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">1.397.500đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=126&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=126" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=126" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+            </div>
+            <!-- 2 -->
+            
+                     
+            <!-- 1 -->
+            
+            <div class="item col3">
+                <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/electrolux-emm2001w" title="ELECTROLUX EMM2001W">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106504_14.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/electrolux-emm2001w" title="ELECTROLUX EMM2001W" class="trans-hover">
+		                                <h3 class="trans-hover">ELECTROLUX EMM2001W</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">1.355.575đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=127&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=127" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=127" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+            </div>
+            <!-- 2 -->
+            
+                       
+        </div>
+		<div class="typicalNavigation">
+            <a class="prev" id="prev960061436413283"><i class="fa fa-chevron-left"></i></a>
+            <a class="next" id="next960061436413283"><i class="fa fa-chevron-right"></i></a>
+        </div>
+	</div> 
+	 
+    </section>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 </div><div><!--$css_item,$box_width,$position,$num_item_row -->
+
+<section class="box-category">
+				<div class="heading">
+					<span>Sản phẩm nổi bật</span>
+				</div>
+                
+				<div class="main">
+                					<ul class="list">
+                    							<li>
+							<a href="http://demot123.web4s.vn/acer-aspire-e5-571-58e7-nx-mltsv-003" title="">
+								<img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105550_1.jpg" alt="ACER ASPIRE E5-571 - 58E7 - NX MLTSV 003">
+																								
+								<p>ACER ASPIRE E5-571 - 58E7 - NX MLTSV 003</p>
+																										    <span class="price-old">145.250đ</span>    
+									    <span class="price-new">125.250đ</span>
+																								</a>
+						</li>
+                        						<li>
+							<a href="http://demot123.web4s.vn/apple-ipad-mini-wifi-16gb-silver" title="">
+								<img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105570_2.jpg" alt="APPLE IPAD MINI WIFI 16GB SILVER">
+																								
+								<p>APPLE IPAD MINI WIFI 16GB SILVER</p>
+																										    <span class="price-new">757.230đ</span>
+																								</a>
+						</li>
+                        						<li>
+							<a href="http://demot123.web4s.vn/bluray-sony-bdv-e6100" title="">
+								<img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105586_3.jpg" alt="BLURAY SONY BDV-E6100">
+																								
+								<p>BLURAY SONY BDV-E6100</p>
+																										    <span class="price-new">692.730đ</span>
+																								</a>
+						</li>
+                        						<li>
+							<a href="http://demot123.web4s.vn/blu-ray-sony-bdv-n9200wlwbmsp1" title="">
+								<img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105606_4.jpg" alt="BLU-RAY SONY BDV-N9200WLWBMSP1">
+																								
+								<p>BLU-RAY SONY BDV-N9200WLWBMSP1</p>
+																										    <span class="price-new">2.108.075đ</span>
+																								</a>
+						</li>
+                        						<li>
+							<a href="http://demot123.web4s.vn/candy-evov-580nc-s" title="">
+								<img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105624_5.jpg" alt="CANDY EVOV 580NC-S">
+																								
+								<p>CANDY EVOV 580NC-S</p>
+																										    <span class="price-new">1.132.190đ</span>
+																								</a>
+						</li>
+                              
+                    </ul> 
+                                                
+				</div>                    
+			</section>
+       
+
+</div><div>  
+<!--$css_item,$box_width,$position,$num_item_row -->
+
+<section class="news">
+    <h2>
+        <span>Tin tức mới nhất</span>
+    </h2>
+    <ul>
+            	        <li>
+            <a href="http://demot123.web4s.vn/george-r.r.-martin-wishes-the-39-game-of-thrones-39-costumes-were-crazier" title="George R.R. Martin Wishes the &#39;Game of Thrones&#39; Costumes Were Crazier">
+                <img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/thumbnail/1423061228_1414435805untitled1.jpg" alt="George R.R. Martin Wishes the &#39;Game of Thrones&#39; Costumes Were Crazier"/>
+                <h4>George R.R. Martin Wishes the &#39;Game of Thrones&#39; Costumes Were Crazier</h4>
+            </a> 
+            <span class="date">
+                <i class="fa fa-calendar-o"></i> 28/10/2014            </span>                                
+        </li>
+             
+        	        <li>
+            <a href="http://demot123.web4s.vn/christian-siriano-tells-us-what-judging-the-teen-version-of-39-project-runway-39-is-like" title="Christian Siriano Tells Us What Judging the Teen Version of &#39;Project Runway&#39; Is Like">
+                <img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/thumbnail/1423061238_1414435545untitled1.jpg" alt="Christian Siriano Tells Us What Judging the Teen Version of &#39;Project Runway&#39; Is Like"/>
+                <h4>Christian Siriano Tells Us What Judging the Teen Version of &#39;Project Runway&#39; Is Like</h4>
+            </a> 
+            <span class="date">
+                <i class="fa fa-calendar-o"></i> 28/10/2014            </span>                                
+        </li>
+             
+        	        <li>
+            <a href="http://demot123.web4s.vn/a-complete-history-of-taylor-swift-39-s-style" title="A Complete History of Taylor Swift&#39;s Style">
+                <img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/thumbnail/1423061242_1414435224untitled1.jpg" alt="A Complete History of Taylor Swift&#39;s Style"/>
+                <h4>A Complete History of Taylor Swift&#39;s Style</h4>
+            </a> 
+            <span class="date">
+                <i class="fa fa-calendar-o"></i> 28/10/2014            </span>                                
+        </li>
+             
+        </ul>  
+    <a href="http://demot123.web4s.vn/danh-muc-bai-viet.html" title="" class="all">Xem tất cả</a>      
+</section>
+  </div></div><div class="col-lg-9 col-md-9 col-sm-12 col-xs-12"><div class="row"><div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">	    
+    	    	<section class="banner-big clearfix">        	      
+	      	<a href="">
+        	<img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423060795_left.jpg" alt="1423060795_left.jpg">
+        	</a>
+    	</section>
+    	    </div><div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">	    
+    	    	<section class="banner-big clearfix">        	      
+	      	<a href="">
+        	<img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423060811_right.jpg" alt="1423060811_right.jpg">
+        	</a>
+    	</section>
+    	    </div></div><div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><!--$css_item,$box_width,$position,$num_item_row -->
+
+<Script language="javascript">
+<!--
+		 $(document).ready(function() {
+		var owl11277502871436413283 = $('#xxxxxxxxxxxx-11277502871436413283');
+			owl11277502871436413283.owlCarousel({
+				items : 4, 
+			  itemsDesktop : [1024,3], 
+			  itemsDesktopSmall : [960,3],
+			  itemsTablet: [640,2],
+			});
+			$("#next11277502871436413283").click(function(){
+				
+				owl11277502871436413283.trigger('owl.next');
+			  })
+			  $("#prev11277502871436413283").click(function(){
+				
+				owl11277502871436413283.trigger('owl.prev');
+			  })		 
+			});
+			-->
+</script>
+    <section id="products-featured" >
+    	
+			<div class="itemfeatured">
+				<h2><span>Sản phẩm mới nhất</span></h2>
+					<div class="row">
+						
+                        <!-- Navigation -->
+						<div class="featuredNavigation">
+                        	<a class="prev" title="Prev" id="prev11277502871436413283"><i class="fa fa-angle-left"></i></a>
+                            <a class="next" title="Next" id="next11277502871436413283"><i class="fa fa-angle-right"></i></a>
+						</div>
+                        
+						<!-- Products -->
+                        <div id="xxxxxxxxxxxx-11277502871436413283" class="owl-carousel" >               
+							<!-- Products 1-->
+						
+                                                                                    
+                                <div class="col94 item col-lg-12">
+                                
+                                
+                                    <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/acer-aspire-e5-571-58e7-nx-mltsv-003" title="ACER ASPIRE E5-571 - 58E7 - NX MLTSV 003">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105550_1.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                                                <span class="product-label-special-right label"><small>-14%</small></span>
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/acer-aspire-e5-571-58e7-nx-mltsv-003" title="ACER ASPIRE E5-571 - 58E7 - NX MLTSV 003" class="trans-hover">
+		                                <h3 class="trans-hover">ACER ASPIRE E5-571 - 58E7 - NX MLTSV 003</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-old">145.250đ</span>    
+											    <span class="price-new">125.250đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=140&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=140" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=140" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                                    
+                                </div>
+                                                        
+                                <div class="col94 item col-lg-12">
+                                
+                                
+                                    <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/apple-ipad-mini-wifi-16gb-silver" title="APPLE IPAD MINI WIFI 16GB SILVER">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105570_2.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/apple-ipad-mini-wifi-16gb-silver" title="APPLE IPAD MINI WIFI 16GB SILVER" class="trans-hover">
+		                                <h3 class="trans-hover">APPLE IPAD MINI WIFI 16GB SILVER</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">757.230đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=139&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=139" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=139" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                                    
+                                </div>
+                                                        
+                                <div class="col94 item col-lg-12">
+                                
+                                
+                                    <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/bluray-sony-bdv-e6100" title="BLURAY SONY BDV-E6100">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105586_3.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/bluray-sony-bdv-e6100" title="BLURAY SONY BDV-E6100" class="trans-hover">
+		                                <h3 class="trans-hover">BLURAY SONY BDV-E6100</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">692.730đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=138&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=138" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=138" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                                    
+                                </div>
+                                                        
+                                <div class="col94 item col-lg-12">
+                                
+                                
+                                    <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/blu-ray-sony-bdv-n9200wlwbmsp1" title="BLU-RAY SONY BDV-N9200WLWBMSP1">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105606_4.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/blu-ray-sony-bdv-n9200wlwbmsp1" title="BLU-RAY SONY BDV-N9200WLWBMSP1" class="trans-hover">
+		                                <h3 class="trans-hover">BLU-RAY SONY BDV-N9200WLWBMSP1</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">2.108.075đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=137&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=137" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=137" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                                    
+                                </div>
+                                                        
+                                <div class="col94 item col-lg-12">
+                                
+                                
+                                    <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/candy-evov-580nc-s" title="CANDY EVOV 580NC-S">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105624_5.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/candy-evov-580nc-s" title="CANDY EVOV 580NC-S" class="trans-hover">
+		                                <h3 class="trans-hover">CANDY EVOV 580NC-S</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">1.132.190đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=136&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=136" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=136" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                                    
+                                </div>
+                                                        
+                                <div class="col94 item col-lg-12">
+                                
+                                
+                                    <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/candy-gc1282d11-s" title="CANDY GC1282D11-S">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105641_6.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/candy-gc1282d11-s" title="CANDY GC1282D11-S" class="trans-hover">
+		                                <h3 class="trans-hover">CANDY GC1282D11-S</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">1.366.325đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=135&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=135" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=135" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                                    
+                                </div>
+                                                        
+                                <div class="col94 item col-lg-12">
+                                
+                                
+                                    <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/canon-eos-700d-ef-s18-55stm" title="CANON EOS 700D (EF S18-55STM)">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105662_7.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/canon-eos-700d-ef-s18-55stm" title="CANON EOS 700D (EF S18-55STM)" class="trans-hover">
+		                                <h3 class="trans-hover">CANON EOS 700D (EF S18-55STM)</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">1.129.825đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=134&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=134" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=134" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                                    
+                                </div>
+                                                        
+                                <div class="col94 item col-lg-12">
+                                
+                                
+                                    <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/canon-powershot-a810" title="CANON POWERSHOT A810 ">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105684_8.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/canon-powershot-a810" title="CANON POWERSHOT A810 " class="trans-hover">
+		                                <h3 class="trans-hover">CANON POWERSHOT A810 </h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">1.139.500đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=133&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=133" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=133" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                                    
+                                </div>
+                                                        
+                                <div class="col94 item col-lg-12">
+                                
+                                
+                                    <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/canon-powershot-sx170is" title="CANON POWERSHOT SX170IS">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105703_9.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/canon-powershot-sx170is" title="CANON POWERSHOT SX170IS" class="trans-hover">
+		                                <h3 class="trans-hover">CANON POWERSHOT SX170IS</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">546.100đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=132&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=132" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=132" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                                    
+                                </div>
+                                                        
+                                <div class="col94 item col-lg-12">
+                                
+                                
+                                    <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/cassette-jvc-rc-ez57b" title="Cassette JVC RC-EZ57B">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423105731_10.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/cassette-jvc-rc-ez57b" title="Cassette JVC RC-EZ57B" class="trans-hover">
+		                                <h3 class="trans-hover">Cassette JVC RC-EZ57B</h3>
+		                            </a>
+		                            <div class="price"> 
+		                            									            											    <span class="price-new">763.680đ</span>
+																												        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=131&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=131" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=131" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                                    
+                                </div>
+                                                        						</div>
+                    </div>                 
+			</div>
+	</section>
+
+</div></div><div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><!--$css_item,$box_width,$position,$num_item_row -->
+	
+	<section id="product-listitem" class="clearfix">
+	<div class="listitem box_9">
+	
+				<h2><span>Điện tử</span>
+					<a href="http://demot123.web4s.vn/dien-tu" title="Xem tất cả" class="all"><i class="fa fa-arrow-circle-o-right"></i>Xem tất cả</a>
+				</h2>
+                <div class="row">
+					<!-- Item 1-->
+                                        	                    	                        	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/tivi-lcd-sony-kdl-32r300b-vn3" title="TIVI LCD SONY KDL-32R300B VN3">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106937_31.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/tivi-lcd-sony-kdl-32r300b-vn3" title="TIVI LCD SONY KDL-32R300B VN3" class="trans-hover">
+		                                <h3 class="trans-hover">TIVI LCD SONY KDL-32R300B VN3</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">2.311.250đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=110&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=110" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=110" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/sony-xperia-e1-d2005" title="SONY XPERIA E1 D2005">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106867_28.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/sony-xperia-e1-d2005" title="SONY XPERIA E1 D2005" class="trans-hover">
+		                                <h3 class="trans-hover">SONY XPERIA E1 D2005</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">12.900.000đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=113&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=113" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=113" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/sony-kts-dsc-w800sc-e32" title="SONY KTS DSC-W800SC E32">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106843_27.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/sony-kts-dsc-w800sc-e32" title="SONY KTS DSC-W800SC E32" class="trans-hover">
+		                                <h3 class="trans-hover">SONY KTS DSC-W800SC E32</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">1.935.000đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=114&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=114" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=114" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/sony-kdl-40w600b" title="SONY KDL 40W600B">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106809_26.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/sony-kdl-40w600b" title="SONY KDL 40W600B" class="trans-hover">
+		                                <h3 class="trans-hover">SONY KDL 40W600B</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">19.350.000đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=115&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=115" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=115" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/sony-dsc-h300-e32" title="SONY DSC-H300 E32">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106789_25.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/sony-dsc-h300-e32" title="SONY DSC-H300 E32" class="trans-hover">
+		                                <h3 class="trans-hover">SONY DSC-H300 E32</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">4.312.900đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=116&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=116" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=116" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/samsung-mx-hs8500" title="SAMSUNG MX-HS8500">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106732_23.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/samsung-mx-hs8500" title="SAMSUNG MX-HS8500" class="trans-hover">
+		                                <h3 class="trans-hover">SAMSUNG MX-HS8500</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">336.905đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=118&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=118" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=118" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/khaluck-home-kl-5220" title="KHALUCK HOME KL-5220">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106676_21.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/khaluck-home-kl-5220" title="KHALUCK HOME KL-5220" class="trans-hover">
+		                                <h3 class="trans-hover">KHALUCK HOME KL-5220</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">455.800đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=120&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=120" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=120" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/iphone-6-16gb-gold" title="IPHONE 6 16GB GOLD">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106611_19.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/iphone-6-16gb-gold" title="IPHONE 6 16GB GOLD" class="trans-hover">
+		                                <h3 class="trans-hover">IPHONE 6 16GB GOLD</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">499.230đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=122&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=122" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=122" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                             
+                                         <!-- Item 2-->
+                    
+				</div>
+                		
+		</div>
+	           
+</section>
+	</div></div><div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><script language="javascript">
+<!--
+function newsletter_form(id,num)
+{
+	
+	//var frm=document+id;
+	var frm=document.forms[id];
+	//alert(frm);
+	// alert(frm.newsletter_email.value);return false;
+	 if(frm.newsletters_email.value=='')
+	 {
+		 alert('Vui lòng nhập địa chỉ email');
+		 return false;
+		 }
+		 var domain="http://demot123.web4s.vn/?site=newsletters";
+		 $.post(domain, {newsletters_email: frm.newsletters_email.value,action:'request'})
+		.done(function( data ) {
+			$("#newsletters_result_"+num).html(data);
+		});
+		return false; 
+	}
+-->
+</script>
+
+   <!-- > 4-->
+       
+       <!--middle-->
+
+	        <section id="email-newsletter" class="clearfix">
+                <h2><span>Nhận tin Newsletter</span></h2>
+                <p id="newsletters_result_127525">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s</p>
+                 <form class="submit_register_email" name="newsletters_form_127525"  id="newsletters_form_127525" method="post" action="javascript:void(200)" onsubmit="return newsletter_form(this.name,'127525');">
+                    <input type="text" placeholder="Nhập email tại đây" autocomplete="off" name="newsletters_email" id="newsletters_email">
+                    <input type="submit" class="trans-hover" value="Gửi">
+                </form>
+            </section>
+
+    <!--middle-->
+    
+     
+        
+   <!---end  > 4---->    
+
+
+
+
+
+
+</div></div><div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><!--$css_item,$box_width,$position,$num_item_row -->
+	
+	<section id="product-listitem" class="clearfix">
+	<div class="listitem box_9">
+	
+				<h2><span>Điện lạnh</span>
+					<a href="http://demot123.web4s.vn/dien-lanh" title="Xem tất cả" class="all"><i class="fa fa-arrow-circle-o-right"></i>Xem tất cả</a>
+				</h2>
+                <div class="row">
+					<!-- Item 1-->
+                                        	                    	                        	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/tivi-lcd-sony-kdl-40r350b-vn3" title="TIVI LCD SONY KDL-40R350B VN3">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106965_32.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/tivi-lcd-sony-kdl-40r350b-vn3" title="TIVI LCD SONY KDL-40R350B VN3" class="trans-hover">
+		                                <h3 class="trans-hover">TIVI LCD SONY KDL-40R350B VN3</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">649.300đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=109&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=109" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=109" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/sony-xperia-z3-d6653" title="SONY XPERIA Z3 D6653">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106914_30.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/sony-xperia-z3-d6653" title="SONY XPERIA Z3 D6653" class="trans-hover">
+		                                <h3 class="trans-hover">SONY XPERIA Z3 D6653</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">2.064.000đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=111&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=111" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=111" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/karaoke-arirang-ar-3600" title="KARAOKE ARIRANG AR-3600">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106631_20.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/karaoke-arirang-ar-3600" title="KARAOKE ARIRANG AR-3600" class="trans-hover">
+		                                <h3 class="trans-hover">KARAOKE ARIRANG AR-3600</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">539.865đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=121&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=121" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=121" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/htc-desire-820s-dual-sim-darkgray+lightgrey" title="HTC DESIRE 820S DUAL SIM DARKGRAY+LIGHTGREY">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106593_18.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/htc-desire-820s-dual-sim-darkgray+lightgrey" title="HTC DESIRE 820S DUAL SIM DARKGRAY+LIGHTGREY" class="trans-hover">
+		                                <h3 class="trans-hover">HTC DESIRE 820S DUAL SIM DARKGRAY+LIGHTGREY</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">752.500đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=123&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=123" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=123" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/electrolux-zmo1540m" title="ELECTROLUX ZMO1540M">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106571_17.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/electrolux-zmo1540m" title="ELECTROLUX ZMO1540M" class="trans-hover">
+		                                <h3 class="trans-hover">ELECTROLUX ZMO1540M</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">2.687.500đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=124&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=124" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=124" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/electrolux-etd28k" title="ELECTROLUX ETD28K">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106548_16.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/electrolux-etd28k" title="ELECTROLUX ETD28K" class="trans-hover">
+		                                <h3 class="trans-hover">ELECTROLUX ETD28K</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">1.397.500đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=125&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=125" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=125" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/electrolux-etb2102pe-rvn" title="ELECTROLUX ETB2102PE-RVN">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106526_15.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/electrolux-etb2102pe-rvn" title="ELECTROLUX ETB2102PE-RVN" class="trans-hover">
+		                                <h3 class="trans-hover">ELECTROLUX ETB2102PE-RVN</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">1.397.500đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=126&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=126" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=126" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                                	
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-6 col94 mg">
+        
+					        <!--item -->
+					        		  					        
+					        <div class="product">
+		                      <div class="image">
+		                        <div class="img-overflow">
+		                           <a href="http://demot123.web4s.vn/electrolux-emm2001w" title="ELECTROLUX EMM2001W">
+		                                <img src="http://demot123.web4s.vn/image.php?width=400&amp;height=400&amp;cropratio=&amp;image=http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423106504_14.jpg" alt=""> 
+		                            </a>
+		                          	<div class="ImageOverlay"></div>
+		                        </div>
+		                        <!--span class="product-label-special-left label">NEW</span-->
+                                 
+		                      </div>
+		                        <div class="des-product">
+		                            <a href="http://demot123.web4s.vn/electrolux-emm2001w" title="ELECTROLUX EMM2001W" class="trans-hover">
+		                                <h3 class="trans-hover">ELECTROLUX EMM2001W</h3>
+		                            </a>
+		                            <div class="price"> 
+							            										    <span class="price-new">1.355.575đ</span>
+																	        </div>
+		                            <ul class="function">
+					          							            						                <li>
+					                   <a href="http://demot123.web4s.vn/?site=cart&act=order&sub=update_cart&item=127&key=addfmodule" title="Mua sản phẩm này">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-shopping-cart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=wishlist&act=add&id=127" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-heart"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					                					                <li>
+					                   <a href="http://demot123.web4s.vn/?site=compare&act=add&id=127" title="">
+					                        <button type="button" class="btn btnitem">
+					                            <i class="fa fa-exchange"></i>
+					                        </button>
+					                    </a>
+					                </li>
+					                					            </ul>
+		                        </div>
+							</div>
+					        
+					        
+					        
+					        
+					        <!--item -->
+                            
+                        </div>
+                       
+                                             
+                                         <!-- Item 2-->
+                    
+				</div>
+                		
+		</div>
+	           
+</section>
+	</div></div></div></div></div></section>                        </div>            
+                       
+                        <footer>
+                         
+                        <section class="row-section footer-slideshow  row_0" style='  '><div class="container"><!-----Slider------>
+		<!--CUSTOMER-->	
+		<section id="customer" class="clearfix">
+			<div class="itemcus">
+				<h2><span>Logo brand</span></h2>    
+                	<!-- Navigation -->             
+					<div class="customNavigation">
+						<a class="prev prev_5931381436413283" title=""><i class="fa fa-angle-left fa-3x"></i></a>
+						<a class="next next_5931381436413283" title=""><i class="fa fa-angle-right fa-3x"></i></a>
+					</div>
+					<div id="slide_5931381436413283" class="owl-carousel cus">   
+					          
+						<!-- Customer 1 -->
+                        <div class="item">
+							<a href="">
+                            	<img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423061710_1414265449logobrand.jpg" alt="">
+                            </a>
+                        </div>
+                        <!-- Customer 1 -->
+                              
+						<!-- Customer 1 -->
+                        <div class="item">
+							<a href="">
+                            	<img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423061710_1414265449logobrand.jpg" alt="">
+                            </a>
+                        </div>
+                        <!-- Customer 1 -->
+                              
+						<!-- Customer 1 -->
+                        <div class="item">
+							<a href="">
+                            	<img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423061710_1414265449logobrand.jpg" alt="">
+                            </a>
+                        </div>
+                        <!-- Customer 1 -->
+                              
+						<!-- Customer 1 -->
+                        <div class="item">
+							<a href="">
+                            	<img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423061710_1414265449logobrand.jpg" alt="">
+                            </a>
+                        </div>
+                        <!-- Customer 1 -->
+                              
+						<!-- Customer 1 -->
+                        <div class="item">
+							<a href="">
+                            	<img src="http://demot123.web4s.vn/profiles/demot123web4svn/uploads/attach/1423061710_1414265449logobrand.jpg" alt="">
+                            </a>
+                        </div>
+                        <!-- Customer 1 -->
+                        					</div>
+			</div>
+		</section>
+	
+<script>
+	//script de chạy slide
+	$(document).ready(function() {
+	  var owl = $("#slide_5931381436413283");
+	  owl.owlCarousel({
+		  items : 4, 
+		  itemsDesktop : [1000,4], 
+		  itemsDesktopSmall : [900,3],
+		  itemsTablet: [600,2],
+		  itemsMobile : false
+	});
+	  // Custom Navigation Events
+	  $(".next_5931381436413283").click(function(){
+		owl.trigger('owl.next');
+	  })
+	  $(".prev_5931381436413283").click(function(){
+		owl.trigger('owl.prev');
+	  })		 
+	});
+	
+</script></div></section><section class="row-section footer-html footer-html footer-html footer-html  row_1" style='background:#323a45 !important; padding:25px 0px !important; '><div class="container"><div class="row"><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12"><h3>THÔNG TIN CÔNG TY</h3>
+<ul class="news-footer">
+  <li> <a href="" title=""> <span>Giới thiệu công ty</span> </a> </li>
+  <li> <a href="" title=""> <span>Tiêu chí bán hàng</span> </a> </li>
+  <li> <a href="" title=""> <span>Đối tác chiến lược</span> </a> </li>
+  <li> <a href="" title=""> <span>Hệ thống trung tâm</span> </a> </li>
+</ul></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12"><h3>CHÍNH SÁCH</h3>
+<ul class="news-footer">
+  <li> <a href="" title=""> <span>Giao nhận - lắp đặt</span> </a> </li>
+  <li> <a href="" title=""> <span>Dùng thử sản phẩm</span> </a> </li>
+  <li> <a href="" title=""> <span>Khu vực giao nhận</span> </a> </li>
+  <li> <a href="" title=""> <span>Chính sách thẻ khách hàng</span> </a> </li>
+</ul></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12"><h3>HỖ TRỢ KHÁCH HÀNG</h3>
+<ul class="news-footer">
+  <li> <a href="" title=""> <span>Hướng dẫn mua hàng</span> </a> </li>
+  <li> <a href="" title=""> <span>Hình thức thanh toán</span> </a> </li>
+  <li> <a href="" title=""> <span>Chăm sóc khách hàng</span> </a> </li>
+  <li> <a href="" title=""> <span>Đổi - trả sản phẩm</span> </a> </li>
+</ul></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12"><h3>THÔNG TIN</h3>
+<ul class="news-footer">
+  <li> <a href="" title=""> <span>Liên hệ</span> </a> </li>
+  <li> <a href="" title=""> <span>Hợp tác</span> </a> </li>
+  <li> <a href="" title=""> <span>Giải thưởng</span> </a> </li>
+  <li> <a href="" title=""> <span>Bảo mật thông tin</span> </a> </li>
+</ul></div></div></div></section><section class="row-section footer-html footer-html  row_2" style='background:#232a33 !important; padding:5px 0px !important; '><div class="container"><div class="row"><div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"><div class="copyright">
+<p>Copyright ® 2002 – 2015 <a href="#" title=""> <strong>Nhan Hoa Software Company</strong> </a>. All Rights Reserved</p>
+</div></div><div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"><ul class="social">
+                        <li>
+                        	<a href="" title="" class="fb hover" target="_blank"> 
+                            	<i class="fa fa-facebook"></i> </a> 
+                        </li>
+                        <li> 
+                        	<a href="" title="" class="tw hover" target="_blank"> 
+                            	<i class="fa fa-twitter"></i> </a> 
+                        </li>
+                        <li> 
+                        	<a href="" title="" class="yt hover" target="_blank"> 
+                            	<i class="fa fa-youtube-play"></i> </a> 
+                        </li>
+                        <li> 
+                        	<a href="" title="" class="gg hover" target="_blank"> 
+                            	<i class="fa fa-google-plus"></i> </a> 
+                        </li>
+                        <li> 
+                        	<a href="" title="" class="rss hover" target="_blank"> 
+                            	<i class="fa fa-rss"></i> </a> 
+                        </li>
+                  	</ul></div></div></div></section>                        
+                        </footer>
+                    </div><!-- /main --> 
+                </div><!-- /st-content-inner --> 
+            </div><!-- /st-content --> 
+        </div><!-- /st-pusher --> 
+    </div><!-- /st-container -->        
+    
+          
+    <!-- Load main.js-->
+    <script>var con_del_cart = "Bạn chắc chắn muốn xóa tất cả sản phẩm trong giỏ hàng?";</script>    <script src="http://demot123.web4s.vn/templates/t1-23/js/main.js"></script>
+    <!-- OWL Carousel jquery -->
+   
+	<!--end id=page-->
+    
+    <div id="fb-root"></div>
+	<script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.0";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <script src="http://demot123.web4s.vn/profiles/demot123web4svn/cache/custom.js"></script>
+
+   
+</body>
+</html>
